@@ -20,3 +20,4 @@ if operator == '*':
 if operator == '/':
     output = A / B
     print('The output of A / B is:',output)
+    
